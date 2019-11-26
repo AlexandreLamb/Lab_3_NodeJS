@@ -40,7 +40,7 @@ body :
 
  GET ( All )
  ```bash
-http://localhost:8082/metrics/:id
+http://localhost:8082/metrics/
 ```
  GET ( One ) 
  ```bash
