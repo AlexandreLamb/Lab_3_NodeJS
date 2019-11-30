@@ -7,8 +7,8 @@ The basic Node.js application on TypeScript.
 ## Installing
 
 ```bash
-git clone https://github.com/sergkudinov/ece-nodejs-2-typescript.git
-cd ece-nodejs-2-typescript
+git clone https://github.com/AlexandreLamb/Lab_3_NodeJS.git
+cd Lab_3_NodeJS
 npm install
 ```
 
