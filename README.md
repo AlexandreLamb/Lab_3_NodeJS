@@ -1,4 +1,4 @@
-# Lab 2 TypeScript
+# Lab 3 TypeScript
 
 ## Introduction
 
